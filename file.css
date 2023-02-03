@@ -1,0 +1,89 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.7);
+  width:900px;
+  height:600px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+
+.foto1{
+  margin: auto;
+  margin-top: 50px;
+  width: 150px;
+}
+
+
+div > h2{
+  color: green;
+  margin-left: 290px;
+}
+
+
+.rettangolo{
+  background-color: green;
+  padding:5px;
+  margin-right: 70px;
+  margin-left: 70px;
+  text-align: center;
+  }
+
+
+div.primop{
+  margin-left: 70px;
+  margin-top: auto;
+  color: white;
+  }
+
+input[type="checkbox"]{
+  margin-left: auto;
+  margin-top: auto;
+}
+
+
+form > p{
+  display: inline-flex;
+  line-height: 20px;
+}
+
+
+div > p{
+  margin-left: auto;
+  margin-top: auto;
+  font-size: 11px;
+  line-height: 1px;
+}
+
+
+p.rettangolo1{
+  background-color: orange;
+  padding: 12px;
+  margin: auto;
+  margin-right: 550px;
+  border-radius: 4px;
+}
+
+
+p.rettangolo2{
+  background-color: green;
+  padding:12px;
+  margin: auto;
+  margin-right: 200px;
+  border-radius: 4px;
+}
+
+
+p.rettangolo3{
+  background-color: red;
+  padding:12px;
+  margin: auto;
+  margin-right: 700px;
+  border-radius: 4px;
+}
